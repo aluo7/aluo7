@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aluo7&label=Profile%20views&color=0e75b6&style=flat" alt="aluo7" /> </p>
 
-- 🔭 I’m currently researching **Vision Transformer hybrid-architectures!**
+- 🔭 I’m currently researching **GRPO on LLMs for reasoning on math benchmarks!**
 
-- 🌱 I’m currently learning about **AI-embodied Agents**
+- 🌱 I’m currently learning about **Agent-to-agent Interrupts & LLMs**
 
 - 💬 Ask me about **Object Detection & Swimming!**
 
