@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alan Luo</h1>
-<h3 align="center">I'm an aspiring graduate student, passionate in Computer Vision, Large Language Models, and general deep learning.</h3>
+<h3 align="center">I'm a current graduate student at UIUC, passionate in Computer Vision, Large Language Models, and general deep learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aluo7&label=Profile%20views&color=0e75b6&style=flat" alt="aluo7" /> </p>
 
